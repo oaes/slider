@@ -1,0 +1,26 @@
+/* body */
+* {
+    background: #d5d5e9;
+  }
+  /* nav-bar */
+  #menu{
+  
+  }
+  #menu li {
+    display: inline;
+    list-style-type: none;
+    
+}
+  
+  /* middle-section */
+  .Middle{
+    margin-left: 20px;
+    margin-top: 50px;
+  }
+  
+  /* pragraph */
+  .ph1{
+    margin-left: 10px;
+  
+  }
+  
